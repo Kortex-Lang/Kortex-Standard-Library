@@ -1,9 +1,9 @@
 {
   "name": "console",
-  "version": "1.0.0",
-  "description": "Terminal formatting and logging utilities",
+  "version": "1.0.1",
+  "description": "Terminal formatting and logging",
   "author": "Kortex-Lang",
-  "files": [
-    "console.k"
-  ]
+  "files": {
+    "console.k": "https://raw.githubusercontent.com/Kortex-Lang/Kortex-Standard-Library/refs/heads/main/main/console/console.k"
+  }
 }
