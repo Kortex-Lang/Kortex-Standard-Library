@@ -1,18 +1,12 @@
 {
   "packages": {
     "math": {
-      "version": "1.0.0",
-      "description": "Kortex Standard Math Library & Tensor Operations",
-      "author": "Kortex-Lang",
-      "manifest_url": "https://raw.githubusercontent.com/Kortex-Lang/Kortex-Standard-Library/refs/heads/main/main/console/math",
-      "files": ["math.k", "kortex_math.h"]
+      "description": "Kortex Standard Math & Tensors",
+      "manifest_url": "https://raw.githubusercontent.com/Kortex-Lang/Kortex-Standard-Library/refs/heads/main/math/package.json"
     },
     "console": {
-      "version": "1.0.0",
-      "description": "Terminal formatting and logging utilities",
-      "author": "Kortex-Lang",
-      "manifest_url": "https://raw.githubusercontent.com/Kortex-Lang/Kortex-Standard-Library/refs/heads/main/main/console/console.k",
-      "files": ["console.k"]
+      "description": "Terminal styling",
+      "manifest_url": "https://raw.githubusercontent.com/Kortex-Lang/Kortex-Standard-Library/refs/heads/main/console/package.json"
     }
   }
 }
