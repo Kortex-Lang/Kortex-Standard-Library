@@ -1,10 +1,10 @@
 {
   "name": "math",
-  "version": "1.0.0",
-  "description": "Kortex Standard Math Library & Tensor Operations",
+  "version": "1.0.1",
+  "description": "Kortex Standard Math Library",
   "author": "Kortex-Lang",
-  "files": [
-    "math.k",
-    "kortex_math.h"
-  ]
+  "files": {
+    "math.k": "https://raw.githubusercontent.com/Kortex-Lang/Kortex-Standard-Library/refs/heads/main/main/math/math.k",
+    "kortex_math.h": "https://raw.githubusercontent.com/Kortex-Lang/Kortex-Standard-Library/refs/heads/main/main/math/kortex_math.h"
+  }
 }
