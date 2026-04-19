@@ -1,0 +1,18 @@
+{
+  "packages": {
+    "math": {
+      "version": "1.0.0",
+      "description": "Kortex Standard Math Library & Tensor Operations",
+      "author": "Kortex-Lang",
+      "url": "https://raw.githubusercontent.com/DEIN_GITHUB_NAME/Kortex-Standard-Library/main/math",
+      "files": ["math.k", "kortex_math.h"]
+    },
+    "console": {
+      "version": "1.0.0",
+      "description": "Terminal formatting and logging utilities",
+      "author": "Kortex-Lang",
+      "url": "https://raw.githubusercontent.com/DEIN_GITHUB_NAME/Kortex-Standard-Library/main/console",
+      "files": ["console.k"]
+    }
+  }
+}

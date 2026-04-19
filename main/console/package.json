@@ -1,0 +1,9 @@
+{
+  "name": "console",
+  "version": "1.0.0",
+  "description": "Terminal formatting and logging utilities",
+  "author": "Kortex-Lang",
+  "files": [
+    "console.k"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "Kortex Standard Math Library & Tensor Operations",
+  "author": "Kortex-Lang",
+  "files": [
+    "math.k",
+    "kortex_math.h"
+  ]
+}
