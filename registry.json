@@ -2,11 +2,11 @@
   "packages": {
     "math": {
       "description": "Kortex Standard Math & Tensors",
-      "manifest_url": "https://raw.githubusercontent.com/Kortex-Lang/Kortex-Standard-Library/refs/heads/main/math/package.json"
+      "manifest_url": "https://raw.githubusercontent.com/Kortex-Lang/Kortex-Standard-Library/refs/heads/main/main/math/package.json"
     },
     "console": {
       "description": "Terminal styling",
-      "manifest_url": "https://raw.githubusercontent.com/Kortex-Lang/Kortex-Standard-Library/refs/heads/main/console/package.json"
+      "manifest_url": "https://raw.githubusercontent.com/Kortex-Lang/Kortex-Standard-Library/refs/heads/main/main/console/package.json"
     }
   }
 }
