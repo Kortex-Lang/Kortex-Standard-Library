@@ -3,12 +3,6 @@
 
 #include <math.h>
 
-float dot(float* a, float* b, int size) {
-    float sum = 0.0f;
-    for(int i = 0; i < size; i++) sum += a[i] * b[i];
-    return sum;
-}
-
 void matmul(float* a, float* b, float* out, int rows_a, int cols_a, int cols_b) {
     for (int i = 0; i < rows_a; i++) {
         for (int j = 0; j < cols_b; j++) {
